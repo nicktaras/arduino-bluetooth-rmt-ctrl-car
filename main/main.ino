@@ -9,9 +9,9 @@
 
 #include "CarController.h";
 
-int servoPos = 0; 
-int servoPin = 10;     // Use pwm pin 10 for the Servo
-int motorPin = 9;      // Use pwm pin 9 for the Toy Motor
+// int servoPos = 0;  
+// int servoPin = 10; // Use pwm pin 10 for the Servo
+int motorPin = 9;     // Use pwm pin 9 for the Toy Motor
 
 CarController CarController(10);
 
