@@ -20,8 +20,8 @@ Good luck with your project :)
 
 ## Main 
 - Runs application life cycle loop
-- Includes classes to drive and steer car 
-- Inclues
+- Includes class to drive and steer car 
+- Includes class to handle blue tooth communication
 
 ## Bluetooth (transmitter - via other device)
 - Emits signal to steer left / right
