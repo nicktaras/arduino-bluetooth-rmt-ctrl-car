@@ -4,17 +4,17 @@ C++ / Arduino bluetooth remote control car
 ### Project: 
 
 This project is for hobbyists who would like a headstart with their remote control
-projects. This includes in both software, hardware and electronics.
+car project (software, hardware and electronics).
 
 ### Project Status: 
 
-Please track through commits to see progress if you wish to use this repository for your own project.
+Please track through commits to see smaller steps of progress:
 
 - Code (incomplete, in progress)
-- 3D model (incomlete)
+- 3D model (incomplete)
 - Electronics schema (incomplete)
 
-Hope it helps you with your ideas and projects :) 
+Good luck with your project :) 
 
 ### Code: 
 
