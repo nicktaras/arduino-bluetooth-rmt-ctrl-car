@@ -8,12 +8,13 @@ projects. This includes in both software, hardware and electronics.
 
 ### Project Status: 
 
-This code is currently in early progress, please track through commits if you wish to
-use this repository for your own project.
+Please track through commits to see progress if you wish to use this repository for your own project.
 
 - Code (incomplete, in progress)
 - 3D model (incomlete)
 - Electronics schema (incomplete)
+
+Hope it helps you with your ideas and projects :) 
 
 ### Code: 
 
