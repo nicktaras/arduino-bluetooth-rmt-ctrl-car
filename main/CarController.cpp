@@ -16,7 +16,6 @@ int servoPin = 10;  // Use pin 10 for the servo
 int servoPos = 0;   // Current Rotation position
 int servoMin = 0;   // Minimum Rotation position
 int servoMax = 180; // Maximum Rotation position
-int pos = 0;        // variable to store the servo position
 
 CarController::CarController(int pin)
 {
@@ -26,10 +25,11 @@ CarController::CarController(int pin)
 }
 
 void CarController::turnLeft()
-{
-  digitalWrite(_pin, HIGH);
-  delay(250);
-  digitalWrite(_pin, LOW);
-  delay(250);  
+{ 
+  for(servoPos = 0; servoPos < 180; servoPos += 1)
+  {                                
+    servo.write(servoPos); 
+    delay(15); 
+  }
 }
 
