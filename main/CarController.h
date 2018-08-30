@@ -6,7 +6,7 @@
 class CarController
 {
   public:
-    CarController(int pin);
+    CarController(int servoPin);
     void turnLeft();
   private:
     int _pin;
