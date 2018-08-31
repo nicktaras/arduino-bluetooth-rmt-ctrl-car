@@ -39,4 +39,4 @@ Good luck with your project :)
 
 ## Circuit
 
-- ![alt text](https://raw.githubusercontent.com/nicktaras/arduino-bluetooth-rmt-ctrl-car/blob/master/circuit_schema/arduino-bluetooth-rmt-ctrl-car-v0.1-beta_schem.png)
+- ![alt text](https://github.com/nicktaras/arduino-bluetooth-rmt-ctrl-car/blob/master/circuit_schema/arduino-bluetooth-rmt-ctrl-car-v0.1-beta_schem.png)
