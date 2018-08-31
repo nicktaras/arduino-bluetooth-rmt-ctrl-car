@@ -13,7 +13,7 @@ Please track through commits to see smaller steps of progress:
 
 - Code (in progress, see proof of concept file for a working version with control via a keyboard + serial monitor)
 - 3D model (incomplete)
-- Electronics schema (incomplete)
+- Electronics schema (ready for testing - waiting for parts to arrive)
 
 Good luck with your project :) 
 
