@@ -37,3 +37,6 @@ Good luck with your project :)
 - Steer left and right
 - Drive forwards
 
+## Circuit
+
+- ![alt text](https://raw.githubusercontent.com/nicktaras/arduino-bluetooth-rmt-ctrl-car/blob/master/circuit_schema/arduino-bluetooth-rmt-ctrl-car-v0.1-beta_schem.png)
