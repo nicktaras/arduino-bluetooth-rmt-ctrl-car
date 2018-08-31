@@ -1,16 +1,17 @@
 # arduino-bluetooth-rmt-ctrl-car
-C++ / Arduino bluetooth remote control car
+C++ / Arduino bluetooth remote control car.
+
+Project inspired and made for my nephews.
 
 ### Project: 
 
-This project is for hobbyists who would like a headstart with their remote control
-car project (software, hardware and electronics).
+This project can be used for hobbyists who would like a headstart with their remote control car project (software, hardware and electronics).
 
 ### Project Status: 
 
 Please track through commits to see smaller steps of progress:
 
-- Code (incomplete, in progress)
+- Code (in progress, see proof of concept file for a working version with control via a keyboard + serial monitor)
 - 3D model (incomplete)
 - Electronics schema (incomplete)
 
